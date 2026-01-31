@@ -57,12 +57,18 @@ My repositories reflect my learning journey and continuous improvement.
 ## 📈 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlken&show_icons=true&theme=dark" alt="Ralph's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlken&show_icons=true&theme=dark&hide_border=true" alt="Ralph's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rlken&theme=onedark&column=3&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlken&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
+
+## 🐍 Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rlken/rlken/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 ---
 
 ## 📫 Let’s Connect
