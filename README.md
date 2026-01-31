@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Ralph
+# Hi, I'm Ralph
 
 `Computer Science Student (Developer/Creator)`
 
