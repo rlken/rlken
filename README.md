@@ -3,7 +3,7 @@
     <td width="60%">
       <h1>Hi, I'm Ralph</h1>
       <code>Computer Science Student (Developer/Creator)</code>
-      <p>I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
+      <p>I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real life problems with code.</p>
       <div align="left">
         <img src="https://komarev.com/ghpvc/?username=rlken&style=for-the-badge&color=ebd33f&label=VIEWS" alt="Views" />
         <a href="https://github.com/rlken">
