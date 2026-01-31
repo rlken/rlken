@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Ralph
+# Hi, I'm Ralph
 
 `Computer Science Student (Developer/Creator)`
 
@@ -55,13 +55,13 @@ My repositories reflect my learning journey and continuous improvement.
 ---
 
 ## 📈 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlken&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
   
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlken&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
 ---
 
 ## 📫 Let’s Connect
