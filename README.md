@@ -55,12 +55,13 @@ My repositories reflect my learning journey and continuous improvement.
 ---
 
 ## 📈 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlken&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-  
-  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlken&show_icons=true&theme=dark" alt="Ralph's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=rlken&theme=onedark&column=3&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 ---
 
