@@ -21,12 +21,14 @@ I’m interested in understanding how software systems work, from backend logic 
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Tools**
-- Java  
-- SQL / Databases  
-- HTML & CSS  
-- Git & GitHub  
+## 🛠️ Languages & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+
 
 **Currently Learning**
 - Backend development fundamentals  
