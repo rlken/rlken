@@ -1,4 +1,4 @@
-# Hi, I'm Ralph <img src="https://raw.githubusercontent.com/rlken/rlken/main/2be67f3d885dead62682c01f0f6e8522.gif" align="right" width="300px">
+# Hi, I'm Ralph <img src="2be67f3d885dead62682c01f0f6e8522.gif" align="right" width="350px">
 
 `Computer Science Student (Developer/Creator)`
 
