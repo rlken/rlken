@@ -50,6 +50,7 @@ My repositories reflect my learning journey and continuous improvement.
 ---
 
 ## 📫 Let’s Connect
+- Email: [kennethpunzalan2@gmail.com]
 - GitHub: [@rlken](https://github.com/rlken)
 - Discord: [_rken](https://discord.com/users/436772044601032704)
 
