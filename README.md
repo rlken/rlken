@@ -1,49 +1,67 @@
-# Hi, I'm Ralph
-**Computer Science Student | Aspiring Software Developer**
+# 👨‍💻 Hi, I'm Ralph
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+`Computer Science Student (Developer/Creator)`
+
+I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from backend logic and databases to clean, functional applications. I’m interested in understanding how software systems work and solving real-world problems with code.
+
+<div align="left">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rlken&style=for-the-badge&color=ebd33f&label=VIEWS" alt="Views" />
+  <a href="https://github.com/rlken">
+    <img src="https://img.shields.io/github/followers/rlken?style=for-the-badge&color=238636&logo=github&label=FOLLOW" alt="Follow" />
+  </a>
+  <img src="https://img.shields.io/github/stars/rlken?style=for-the-badge&color=3fb950&logo=apachespark&label=STARS" alt="Stars" />
+</div>
 
 ---
 
 ## 🎓 About Me
-I'm a Computer Science student who enjoys building practical projects and learning by doing.  
-I’m interested in understanding how software systems work, from backend logic and databases to clean, functional applications.
-
-- 💻 CS student strengthening fundamentals through hands on projects  
-- 🔍 Curious about system design and real world problem solving  
-- 📚 Always learning and improving my coding skills  
-- 🚀 Aspiring software developer
+- 💻 CS student strengthening fundamentals through hands-on projects.
+- 🔍 Curious about system design and real-world problem solving.
+- 📚 Always learning and improving my coding skills.
+- 🚀 Aspiring software developer.
 
 ---
 
 ## 🛠️ Languages & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-
-**Currently Learning**
-- Backend development fundamentals  
-- Full stack application workflows  
+### Currently Learning
+- Backend development fundamentals
+- Full stack application workflows
 - Writing cleaner and more maintainable code
 
 ---
 
 ## 📌 What You’ll Find Here
-- Academic and personal projects  
-- Practice code and experiments  
-- Systems built to understand core CS concepts  
+- Academic and personal projects
+- Practice code and experiments
+- Systems built to understand core CS concepts
 
 My repositories reflect my learning journey and continuous improvement.
 
 ---
 
 ## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&count_private=true&theme=github_dark)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlken&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 ---
 
 ## 📫 Let’s Connect
