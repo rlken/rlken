@@ -44,8 +44,8 @@ My repositories reflect my learning journey and continuous improvement.
 
 ---
 
-## 📈 GitHub Stats
-![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&theme=default&count_private=true)
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=rlken)
 
 ---
 
