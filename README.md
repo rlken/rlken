@@ -1,8 +1,8 @@
-# Hi, I'm Ralph
+# Hi, I'm Ralph <img src="https://media.giphy.com/media/hvRJCLFzcyK5G/giphy.gif" width="30px">
 
 `Computer Science Student (Developer/Creator)`
 
-I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real life problems with code. 
+I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=rlken&style=for-the-badge&color=ebd33f&label=VIEWS" alt="Views" />
