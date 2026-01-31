@@ -50,8 +50,8 @@ My repositories reflect my learning journey and continuous improvement.
 ---
 
 ## 📫 Let’s Connect
-- Email: [kennethpunzalan2@gmail.com]
-- GitHub: [@rlken](https://github.com/rlken)
-- Discord: [_rken](https://discord.com/users/436772044601032704)
+[![Email](https://img.shields.io/badge/Email-kpnzalan-red?style=flat&logo=gmail&logoColor=white)](mailto:kennethpunzalan2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rlken-181717?style=flat&logo=github&logoColor=white)](https://github.com/rlken)
+[![Discord](https://img.shields.io/badge/Discord-_rken-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/436772044601032704)
 
 Thanks for visiting! Feel free to explore my projects.
