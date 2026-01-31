@@ -1,16 +1,22 @@
-# Hi, I'm Ralph <img src="2be67f3d885dead62682c01f0f6e8522.gif" align="right" width="350px">
-
-`Computer Science Student (Developer/Creator)`
-
-I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=rlken&style=for-the-badge&color=ebd33f&label=VIEWS" alt="Views" />
-  <a href="https://github.com/rlken">
-    <img src="https://img.shields.io/github/followers/rlken?style=for-the-badge&color=238636&logo=github&label=FOLLOW" alt="Follow" />
-  </a>
-  <img src="https://img.shields.io/github/stars/rlken?style=for-the-badge&color=3fb950&logo=apachespark&label=STARS" alt="Stars" />
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hi, I'm Ralph</h1>
+      <code>Computer Science Student (Developer/Creator)</code>
+      <p>I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
+      <div align="left">
+        <img src="https://komarev.com/ghpvc/?username=rlken&style=for-the-badge&color=ebd33f&label=VIEWS" alt="Views" />
+        <a href="https://github.com/rlken">
+          <img src="https://img.shields.io/github/followers/rlken?style=for-the-badge&color=238636&logo=github&label=FOLLOW" alt="Follow" />
+        </a>
+        <img src="https://img.shields.io/github/stars/rlken?style=for-the-badge&color=3fb950&logo=apachespark&label=STARS" alt="Stars" />
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <img src="2be67f3d885dead62682c01f0f6e8522.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,3 +48,5 @@ I'm a Computer Science student who enjoys building practical projects and learni
 [![Email](https://img.shields.io/badge/Email-kpnzalan-red?style=flat&logo=gmail&logoColor=white)](mailto:kennethpunzalan2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rlken-181717?style=flat&logo=github&logoColor=white)](https://github.com/rlken)
 [![Discord](https://img.shields.io/badge/Discord-_rken-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/436772044601032704)
+
+Thanks for visiting! Feel free to explore my projects.
