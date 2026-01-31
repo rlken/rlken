@@ -1,4 +1,4 @@
-# Hi, I'm Ralph 👋  
+# Hi, I'm Ralph
 **Computer Science Student | Aspiring Software Developer**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -12,10 +12,10 @@
 
 ## 🎓 About Me
 I'm a Computer Science student who enjoys building practical projects and learning by doing.  
-I’m interested in understanding how software systems work—from backend logic and databases to clean, functional applications.
+I’m interested in understanding how software systems work, from backend logic and databases to clean, functional applications.
 
-- 💻 CS student strengthening fundamentals through hands-on projects  
-- 🔍 Curious about system design and real-world problem solving  
+- 💻 CS student strengthening fundamentals through hands on projects  
+- 🔍 Curious about system design and real world problem solving  
 - 📚 Always learning and improving my coding skills  
 - 🚀 Aspiring software developer
 
@@ -30,7 +30,7 @@ I’m interested in understanding how software systems work—from backend logic
 
 **Currently Learning**
 - Backend development fundamentals  
-- Full-stack application workflows  
+- Full stack application workflows  
 - Writing cleaner and more maintainable code
 
 ---
@@ -51,5 +51,6 @@ My repositories reflect my learning journey and continuous improvement.
 
 ## 📫 Let’s Connect
 - GitHub: [@rlken](https://github.com/rlken)
+- Discord: [_rken](https://discord.com/users/436772044601032704)
 
-Thanks for visiting! Feel free to explore my projects or follow along as I grow as a developer 🙂
+Thanks for visiting! Feel free to explore my projects.
