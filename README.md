@@ -60,15 +60,17 @@ My repositories reflect my learning journey and continuous improvement.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlken&show_icons=true&theme=dark&hide_border=true" alt="Ralph's GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlken&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
 ## 🐍 Contribution Snake
 <p align="left">
   <img src="https://raw.githubusercontent.com/rlken/rlken/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
+
+## 🚀 Skills & Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,postgres,html,css,git,github,vscode,linux,pnpm" />
+</p>
 ---
 
 ## 📫 Let’s Connect
