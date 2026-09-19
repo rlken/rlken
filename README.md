@@ -4,13 +4,6 @@
       <h1>Hi, I'm Ralph</h1>
       <code>Computer Science Student (Developer/Creator)</code>
       <p>I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real life problems with code.</p>
-      <div align="left">
-        <img src="https://komarev.com/ghpvc/?username=rlken&style=for-the-badge&color=ebd33f&label=VIEWS" alt="Views" />
-        <a href="https://github.com/rlken">
-          <img src="https://img.shields.io/github/followers/rlken?style=for-the-badge&color=238636&logo=github&label=FOLLOW" alt="Follow" />
-        </a>
-        <img src="https://img.shields.io/github/stars/rlken?style=for-the-badge&color=3fb950&logo=apachespark&label=STARS" alt="Stars" />
-      </div>
     </td>
     <td width="40%" align="center">
       <img src="2be67f3d885dead62682c01f0f6e8522.gif" width="100%">
@@ -22,7 +15,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,spring,mysql,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mongodb,html,css,git,github,vscode" />
 </p>
 
 **Currently Learning:**
