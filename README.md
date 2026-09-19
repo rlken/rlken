@@ -22,11 +22,12 @@
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,postgres,html,css,git,github,vscode,linux,pnpm" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,spring,mysql,html,css,git,github,vscode,linux" />
 </p>
 
 **Currently Learning:**
-- Backend development fundamentals & Full stack workflows
+- Full-stack development with the MERN stack (React, Express, MongoDB)
+- Advanced database management and system design
 - Writing cleaner and more maintainable code
 
 ---
@@ -34,7 +35,7 @@
 ## 📈 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlken&show_icons=true&theme=dark&hide_border=true" alt="Ralph's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&theme=dark&hide_border=true" alt="Ralph's GitHub Stats" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -44,7 +45,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-kpnzalan-red?style=flat&logo=gmail&logoColor=white)](mailto:kennethpunzalan2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rlken-181717?style=flat&logo=github&logoColor=white)](https://github.com/rlken)
 [![Discord](https://img.shields.io/badge/Discord-_rken-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/436772044601032704)
