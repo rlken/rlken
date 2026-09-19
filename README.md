@@ -25,12 +25,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlken&show_icons=true&theme=dark&hide_border=true" alt="Ralph's GitHub Stats" />
-</p>
-
 ## 🐍 Contribution Snake
 <p align="left">
   <img src="https://raw.githubusercontent.com/rlken/rlken/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
