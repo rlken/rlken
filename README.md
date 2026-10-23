@@ -1,40 +1,46 @@
 <table>
   <tr>
-    <td width="60%">
-      <h1>Hi, I'm Ralph</h1>
-      <code>Computer Science Student (Developer/Creator)</code>
-      <p>I'm a Computer Science student who enjoys building practical projects and learning by doing. All coding projects are built from the ground up, from planning and designing all the way to solving real life problems with code.</p>
+    <td width="62%" valign="middle">
+      <h1>Hi, I'm Ralph.</h1>
+      <p><strong>Computer Science student · Developer &amp; creator</strong></p>
+      <p>I like turning practical ideas into working software, from web apps and database systems to small macOS utilities.</p>
+      <p>This is where I share personal projects, coursework, and things I've built with a team.</p>
     </td>
-    <td width="40%" align="center">
-      <img src="2be67f3d885dead62682c01f0f6e8522.gif" width="100%">
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/rlken/rlken/main/2be67f3d885dead62682c01f0f6e8522.gif" width="300" alt="Animated car drifting at night">
     </td>
   </tr>
 </table>
 
----
-
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mongodb,html,css,git,github,vscode" />
+<p>
+  <a href="mailto:kennethpunzalan2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-334155?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email Ralph"></a>
+  <a href="https://discord.com/users/436772044601032704"><img src="https://img.shields.io/badge/Discord-%5F%5Frken-5865F2?style=flat&amp;logo=discord&amp;logoColor=white" alt="Discord: _rken"></a>
 </p>
 
-**Currently Learning:**
-- Full-stack development with the MERN stack (React, Express, MongoDB)
-- Advanced database management and system design
-- Writing cleaner and more maintainable code
+## Selected projects
 
----
+| Project | What it's about |
+| :--- | :--- |
+| [**RbxMulti**](https://github.com/rlken/RbxMulti) | A native **Swift** menu-bar launcher for running multiple Roblox accounts on macOS. |
+| [**HydroTrack**](https://github.com/rlken/hydrotrack) | A water fountain monitoring system built with **Java, Spring Boot, and MySQL**, covering water quality and maintenance. |
+| [**URL Pattern Recognition**](https://github.com/seavens3nt/url-pattern-recognition) | A team-built **React + Flask** app that validates URLs with a DFA trace. My work focused on the **regular expression and NFA**, plus reviewing the DFA and minimization. |
+| [**NU Wizards Hub**](https://github.com/bonkbonkboomeykwkwkw/nu-wizards-hub) | A shared **Next.js** project for tournament registration and bracketing. |
 
-## 🐍 Contribution Snake
-<p align="left">
-  <img src="https://raw.githubusercontent.com/rlken/rlken/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## Languages & tools
 
----
+**Languages**
 
-## 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-kpnzalan-red?style=flat&logo=gmail&logoColor=white)](mailto:kennethpunzalan2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rlken-181717?style=flat&logo=github&logoColor=white)](https://github.com/rlken)
-[![Discord](https://img.shields.io/badge/Discord-_rken-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/436772044601032704)
+<img src="https://skillicons.dev/icons?i=java,python,js,swift,html,css&amp;perline=6" alt="Java, Python, JavaScript, Swift, HTML, CSS" height="48">
 
-Thanks for visiting! Feel free to explore my projects.
+**Frameworks, databases & tools**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,mysql,mongodb&amp;perline=5" alt="React, Node.js, Spring Boot, MySQL, MongoDB" height="48">
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlken/rlken/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlken/rlken/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation of my GitHub contribution grid" src="https://raw.githubusercontent.com/rlken/rlken/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
