@@ -3,7 +3,7 @@
     <td width="62%" valign="middle">
       <h1>Hi, I'm Ralph.</h1>
       <p><strong>Computer Science student · Developer &amp; creator</strong></p>
-      <p>I like turning practical ideas into working software, from web apps and database systems to small macOS utilities.</p>
+      <p>I like turning practical ideas into working software, from web apps and database systems to small utilities.</p>
       <p>This is where I share personal projects, coursework, and things I've built with a team.</p>
     </td>
     <td width="38%" align="center" valign="middle">
